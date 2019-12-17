@@ -14,7 +14,7 @@
     "boilerplate",
     "hmr"
   ],
-  "author": "Tania Rascia <tania@taniarascia.com>",
+  "author": "Hector Ochoa <hochoa@riviana.com>",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.5.5",
@@ -37,6 +37,7 @@
     "postcss-loader": "^3.0.0",
     "postcss-preset-env": "^6.7.0",
     "sass-loader": "^8.0.0",
+    "serialize-javascript": ">=2.1.1",
     "style-loader": "^1.0.0",
     "terser-webpack-plugin": "^1.4.1",
     "url-loader": "^2.1.0",

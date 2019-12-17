@@ -77,6 +77,7 @@ npm run build
 ## Author
 
 - [Tania Rascia](https://www.taniarascia.com)
+- [Hector Ochoa](mailto:hochoa@riviana.com)
 
 ## License
 
